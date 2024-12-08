@@ -1,0 +1,49 @@
+name: ira.ward
+description: middleware
+version: 9.3.0.479
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: iraward
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:49:43'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:49:43'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:49:43.794696Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '968226118'
+  createdAt: '2024-12-08T23:49:43.794696Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
